@@ -6,5 +6,5 @@ app.get('/', function(req, res){
 	res.send('hello');
 });
 
-app.listen(3000);
-console.log('Started server on port 3000');
+app.listen(10002);
+console.log('Started server on port 10002');
