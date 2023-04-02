@@ -186,4 +186,4 @@ app.get('/restricted', authRequired, (req, res) => {
   } 
 });
 
-app.listen(3000);
+app.listen(10002);
